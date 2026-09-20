@@ -1,0 +1,2 @@
+# Current positions. Update last_price_inr + last_price_date when you refresh, or leave blank and I will fill it.
+symbol,exchange,qty,avg_cost_inr,last_price_inr,last_price_date,status

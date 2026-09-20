@@ -1,0 +1,4 @@
+# Every buy/sell. action = BUY or SELL.
+# charges_inr = brokerage + STT + stamp duty + DP charge + GST, total for that trade.
+# cost_basis_inr = only for SELL rows: qty x your average cost, so realised P&L is exact.
+date,action,symbol,exchange,qty,price_inr,charges_inr,cost_basis_inr,note
